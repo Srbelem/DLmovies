@@ -1,0 +1,11 @@
+postgres://
+
+xkdjntupauguml  -> username
+:
+437313a015e36b33e01590ffa8c7a0ee2df1e23fed181bcba513a1e46cfab95e   -> password
+@
+ec2-3-224-164-189.compute-1.amazonaws.com   -> hostname
+:
+5432
+/
+d7p6vgmfvpii36  -> nome base de dados
